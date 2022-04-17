@@ -11,4 +11,6 @@ Também estarei sempre atualizando o repositório para ir colocando tudo que est
 [01 - Markdown](/docs/01-markdown.md)  
 [02 - HTML e CSS](/docs/02-html-css.md)  
 [03 - Git e GitHub](/docs/03-git.md)  
-[04 - Orientação a Objetos em PHP](/docs/04-orientacao-objetos-php.md)
+
+## **Sumário - Intermediário**
+[01 - Orientação a Objetos em PHP](/docs/04-orientacao-objetos-php.md)
