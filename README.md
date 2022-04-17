@@ -7,7 +7,7 @@ P.S.: Eu tenho um background na área, isto é, tenho um curso técnico na área
 
 Também estarei sempre atualizando o repositório para ir colocando tudo que estudo com o tempo.
 
-## **Sumário**
+## **Sumário - Básico**
 [01 - Markdown](/docs/01-markdown.md)  
 [02 - HTML e CSS](/docs/02-html-css.md)  
 [03 - Git e GitHub](/docs/03-git.md)  
