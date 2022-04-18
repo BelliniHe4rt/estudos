@@ -15,15 +15,12 @@ Bem, tudo o que queremos colocar em um documento HTML são elementos, e esses el
 	</head>
 
 	<body>
-
 		<h1>My First Heading</h1>
 		<p>My first paragraph.</p>
-
 	</body>
 
 	</html> 
 ```
-
 
 Vamos lá! Para simplificar, quando falamos de tags, falamos de tudo o que está entre os sinais ```<tag>```, assim como vemos no exemplo acima. Sempre que uma tag é utilizada, nós a  abrimos e depois a fechamos, mas, para fechar usamos  a barra, como também podemos ver no exemplo acima, ficando assim:  
 ```<tag>``` Elemento ```</tag>```.    

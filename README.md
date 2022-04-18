@@ -13,4 +13,4 @@ Também estarei sempre atualizando o repositório para ir colocando tudo que est
 [03 - Git e GitHub](/docs/03-git.md)  
 
 ## **Sumário - Intermediário**
-[01 - Orientação a Objetos em PHP](/docs/04-orientacao-objetos-php.md)
+[01 - Orientação a Objetos](/docs/04-orientacao-objetos-php.md)
