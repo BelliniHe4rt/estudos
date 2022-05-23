@@ -12,5 +12,16 @@ Também estarei sempre atualizando o repositório para ir colocando tudo que est
 [02 - HTML e CSS](/docs/02-html-css.md)  
 [03 - Git e GitHub](/docs/03-git.md)  
 
+## **Sumário - PHP**
+[01 - O que é PHP?](/docs/05-php.md)  
+[02 - PHP e HTML](/docs/06-php-html.md)  
+[03 - Arrays](/docs/07-arrays.md)  
+[04 - Booleans](/docs/08-booleans.md)  
+[05 - Conditionals](/docs/09-conditionals.md)  
+
+// Em desenvolvimento
+
 ## **Sumário - Intermediário**
-[01 - Orientação a Objetos](/docs/04-orientacao-objetos-php.md)
+[01 - Orientação a Objetos](/docs/04-orientacao-objetos-php.md)  
+
+// Em desenvolvimento
