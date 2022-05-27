@@ -18,6 +18,8 @@ Também estarei sempre atualizando o repositório para ir colocando tudo que est
 [03 - Arrays](/docs/07-arrays.md)  
 [04 - Booleans](/docs/08-booleans.md)  
 [05 - Conditionals](/docs/09-conditionals.md)  
+[06 - Funções](/docs/010-functions.md)  
+[07 - Classes](/docs/011-classes.md)  
 
 // Em desenvolvimento
 
