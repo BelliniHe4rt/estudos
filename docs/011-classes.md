@@ -41,3 +41,5 @@ class Quarto
 
 $quarto = new Quarto('Cama', 'Guarda-roupa');
 ```
+
+// Em estudos, desenvolvimento e falta tirar algumas dúvidas.
