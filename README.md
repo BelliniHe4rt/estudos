@@ -23,6 +23,17 @@ Também estarei sempre atualizando o repositório para ir colocando tudo que est
 
 // Em desenvolvimento
 
+## **Sumário - PHP 4noobs**
+O sumário do 4noobs é um complemento para o sumário de PHP, apontando alguns detalhes importantes que encontrei no 4noobs da He4rt e que são extremamente úteis. Segue abaixo o link do repositório completo de PHP da He4rt Developers.  
+
+<p align="center"> 
+    <a href="https://github.com/DanielHe4rt/php4noobs">Clique aqui para ser redirecionado para o repositório PHP 4noobs </a>
+</p>
+
+[1 - Operadores aritméticos](/docs/012-operadores-aritmeticos.md)  
+
+// Em desenvolvimento
+
 ## **Sumário - Intermediário**
 [01 - Orientação a Objetos](/docs/04-orientacao-objetos-php.md)  
 
