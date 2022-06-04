@@ -1,8 +1,8 @@
-# PHP
+# **PHP**
 Em algum momento dos nossos estudos precisamos focar em alguma linguagem de programação, isso nos ajudará a ter mais noção do que queremos para o nosso futuro, em qual área queremos trabalhar.
 O PHP é uma linguagem de programação server side, e uma linguagem surpreendente para desenvolver páginas web.  Aqui irei estudar um pouco de sua sintaxe e como desenvolver com PHP.  
 
-## Variáveis
+## **Variáveis**
 As variáveis são um meio de armazenar algum dado em PHP. E para isso sempre precisamos atribuir um nome a essa variável, o que é muito importante, pois o nome da variável indica o que ela é. Como desenvolvedores devemos pensar muito sobre isso, pois é o que deixa nosso código mais limpo também.  
 Para declarar uma variável em PHP colocamos um cifrão ($)    e o nome da nossa variável, finalizando com um ponto e vírgula (;), assim:  
 
