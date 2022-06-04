@@ -30,7 +30,7 @@ Um outro ponto sobre arrays é que para printar o nosso array na tela nós podem
 
 Sabendo o básico sobre arrays, podemos entender um pouco sobre arrays associativos.
 
-## Arrays associativos
+## **Arrays associativos**
 Utilizamos arrays associativos quando queremos atribuir um valor a algum dado de dentro do nosso array. Vejamos um exemplo com alguma task.
 
 ```php

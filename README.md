@@ -30,11 +30,16 @@ O sumário do 4noobs é um complemento para o sumário de PHP, apontando alguns 
     <a href="https://github.com/DanielHe4rt/php4noobs">Clique aqui para ser redirecionado para o repositório PHP 4noobs </a>
 </p>
 
-[1 - Operadores aritméticos](/docs/012-operadores-aritmeticos.md)  
+### **Básico** 
+[01 - Operadores aritméticos](/docs/012-operadores-aritmeticos.md)  
+[02 - Operadores bitwise](/docs/013-operadores-bitwise.md)  
+[03 - Operadores de atribuição](/docs/014-operadores-atribuição.md)  
+[04 - Operadores de comparação](/docs/015-operadores-comparação.md)  
+[05 - Operadores lógicos](/docs/016-operadores-logicos.md)
 
 // Em desenvolvimento
 
 ## **Sumário - Intermediário**
 [01 - Orientação a Objetos](/docs/04-orientacao-objetos-php.md)  
 
-// Em desenvolvimento
+// Em desenvolvimento 

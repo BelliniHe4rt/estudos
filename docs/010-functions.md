@@ -36,5 +36,5 @@ A função do código acima é para checar a idade de uma pessoa para verificar 
 
 Vamos associar essa função a uma variável e então printar ela.  
 
-## Conclusão
+## **Conclusão**
 Caso quisermos reutilizar essa função n vezes para checar a idade em n partes de um código, podemos reutilizar. Esse é o papel básico de uma função e essa é uma das formas que uma função funciona.
