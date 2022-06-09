@@ -1,4 +1,4 @@
-# Conditionals
+# **Condicionais**
 Suponhamos que ao irmos ao mercado queremos comprar um produto e temos apenas R$10.00. Nesse caso, teríamos uma condição. Se o valor do produto for menor ou igual a R$10.00, podemos comprar o produto; caso contrário, não podemos efetuar a compra.  
 
 Trazendo isso para o exemplo de tasks que estamos seguindo, vamos analisar o seguinte exemplo.

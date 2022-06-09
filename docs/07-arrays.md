@@ -1,4 +1,4 @@
-# Arrays
+# **Arrays**
 Quando vimos sobre PHP, logo falamos das variáveis. Uma variável é uma capaz de armazenar um valor, já um array é capaz armazenar mais de um valor. Por exemplo, se quisermos fazer uma lista de animais apenas com variáveis, ficaria da seguinte maneira:
 
 ```php

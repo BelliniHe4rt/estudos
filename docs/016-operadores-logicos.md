@@ -1,4 +1,4 @@
-# Operadores lógicos
+# **Operadores lógicos**
 Os operadores lógicos tratam-se se operadores que trabalham com valores booleanos. Desta forma, antes de realizar uma operação utilizando o valor, ele é convertido para booleano.  
 
 Aqui veremos quais são esses operadores lógicos e como eles funcionam.  

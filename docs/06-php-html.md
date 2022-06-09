@@ -1,4 +1,4 @@
-# PHP e HTML
+# **PHP e HTML**
 Quando queremos estilizar uma página web, podemos utilizar HTML e CSS. E aqui veremos como podemos utilizar PHP dentro do HTML para que possamos fazer uma marcação de texto nos nossos dados.    
 
 Antes de sabermos como utilizar o PHP dentro do HTML é preciso saber um pouco sobre HTML. E aqui não irei me estender muito sobre o assunto, uma vez que há um tópico especialmente de HTML aqui. Então, caso haja alguma dúvida sobre, verifique o tópico de HTML antes de prosseguir.  
@@ -47,7 +47,7 @@ Como podemos ver, esse código estaria em um documento HTML, onde, dentro dele, 
 Dentro da tag ```style```. o nosso header está abrigando toda a nossa estilização em CSS da nossa tag ```header```.  
 Embaixo, no corpo do documento nós declaramos uma variável com um valor. Após isso, a colocamos em um cabeçalho e printamos com PHP. E aqui é importante analisar e lembrar que se abrimos um código PHP dentro do nosso códig HTML, precisamos abrir e fechar a tag PHP.  Normalmente, quando criamos um documento PHP apenas abrimos a nossa tag PHP no documento. Uma vez que o nosso documento já é declarado que é PHP, não é necessário que fechemos a tag ao fim do código.
 
-## Separando a lógica da estilização
+## **Separando a lógica da estilização**
 É importante sabermos que quando vamos abrir um documento assim no nosso browser, o primeiro arquivo que ele "enxerga", por assim dizermos, é o arquivo que estiver nomeado com "index". Desta forma, suponhamos que esse código nosso é um *index.tmpl.html*, apenas para colocar a estilização.  
 
 *"Mas, e se quisermos separar esses documentos para termos um apenas para os nossos dados e um para estilizarmos ele?"*  
