@@ -76,6 +76,31 @@ No exemplo em que utilizando mais de um parâmetro, colocamos uma condição ver
 Quando abrimos a nossa condição, verificamos o usuário 1. Mas, vejamos te temos agora um usuário 2 para verificar antes de declarar a nossa condição falsa (else). Para verificarmos o usuário 2 nós utilizamos o ***else/if***, o que nos permitiu uma segunda condição verdadeira antes de fecharmos a estrutura.  
 
 ### **Condição switch-case**
-Essa condição é uma condição de casos de uso, o que é bem parecido com a condição if/else if/else. O curioso e interessante dessa condição é que sua estrutura lembra muito também o design de menus de jogos antigos.  
+Essa condição é uma condição de casos de uso, o que é bem parecido com a condição if/else e else-if. O curioso e interessante dessa condição é que sua estrutura lembra muito também o design de menus de jogos antigos.  
 
-Em questões de estrutura, podemos dizer da similaridade com menus de jogos antigo, mas, principalmente podemos dizer isso porque essa é uma condição de casos de uso. Ou seja, é possível fazer menus com esse tipo de condição.
+Em questões de estrutura, podemos dizer da similaridade com menus de jogos antigos, mas, principalmente podemos dizer isso porque essa é uma condição de casos de uso. Ou seja, é possível fazer menus com esse tipo de condição. Vejamos um exemplo.
+
+```php
+<?php
+
+$sabores = "!chocolate";
+
+switch($sabores){
+    case "!chocolate":
+        echo "Você escolheu o sabor chocolate para o seu sorvetinho!";
+        break;
+    case "!maracuja":
+        echo "Você escolheu o sabor maracujá para o seu sorvetinho!";
+        break;
+    case "!morango":
+        echo "Você escolheu o sabor morango para o seu sorvetinho!";
+        break;
+    default:
+        echo "Você não escolheu nenhum sabor para o seu sorvetinho :(";
+        break;
+
+```
+
+Suponhamos que estamos em um menu online do cardápio de uma sorveteria. Bem, no cóodigo acima foi o que fizemos de exemplo. Nós temos N opções de sabores, mas, se escolhermos uma delas, nos será retornado que escolhemos tal sabor.  
+
+Quando falo que se pode fazer menus com a condição switch-case, pode-se fazer vários tipos de menus. Esse foi apenas um dos N exemplos que poderia ser usado.
