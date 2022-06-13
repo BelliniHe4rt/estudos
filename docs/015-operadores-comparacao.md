@@ -1,4 +1,4 @@
-# Comparação de valores
+# **Comparação de valores**
 Como em outros artigos eu já disse que algumas coisas na computação poderíamos comparar com o que aprendemos na escola para facilitar, nesse tópico também não será diferente.  
 
 Quando aprendemos a comparar na escola, começamos pela língua portuguesa, a qual nos apresentou duas palavras interessantes: **antônimos** e **sinônimos**. Para antônimos entendemos o que é diferente ou, melhor, o contrário de algo. Já para sinônimos entendemos algo que tem alguma semelhança.  

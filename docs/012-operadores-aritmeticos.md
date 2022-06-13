@@ -1,4 +1,4 @@
-# Operadores aritméticos
+# **Operadores aritméticos**
 Assim como na matemática, na computação também possuímos operadores aritméticos, e aqui alguns são expressados de uma maneira diferente. Abaixo veremos como esses operadores são declarados na computação.  
 
 * **Adição:** A soma de dois ou mais valores na computação é realizada assim como aprendemos na escola mesmo, o símbolo é o mesmo (**+**).

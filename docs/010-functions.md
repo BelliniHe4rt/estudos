@@ -1,4 +1,4 @@
-# Funções
+# **Funções**
 No ensino médio aprendemos vários tipos de funções matemáticas. Aqui vamos falar sobre o que é uma função dentro do contexto de programação.  
 Na escola sempre vimos algumas fórmulas que nunca mudaram, e nós sempre alteramos o valor e fazemos algum cálculo dentro delas. Bom, aqui em programação podemos usar o conceito dessas fórmulas para explicar o que seria uma função.  
 

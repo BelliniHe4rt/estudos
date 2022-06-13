@@ -1,4 +1,4 @@
-# Booleans
+# **Booleans**
 Pense em questões que as opções são apenas duas: sim ou não, verdadeiro ou falso etc. Bem, quando falamos em booleans tratamos justamente de valores verdadeiros ou falsos, principalmente.  
 Vejamos um exemplo utilizando arrays associativos com booleans.
 

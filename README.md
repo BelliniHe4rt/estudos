@@ -35,7 +35,14 @@ O sumário do 4noobs é um complemento para o sumário de PHP, apontando alguns 
 [02 - Operadores bitwise](/docs/013-operadores-bitwise.md)  
 [03 - Operadores de atribuição](/docs/014-operadores-atribuição.md)  
 [04 - Operadores de comparação](/docs/015-operadores-comparação.md)  
-[05 - Operadores lógicos](/docs/016-operadores-logicos.md)
+[05 - Operadores lógicos](/docs/016-operadores-logicos.md)  
+[06 - Operadores de execução](/docs/017-operadores-exucucao.md)  
+[07 - Estruturas de controle - Condicionais](/docs/018-estruturas-controle-condicionais.md)  
+[08 - Estruturas de controle - Loops](/docs/019-estruturas-controle-loops.md)  
+
+### **Intermediário**
+[01 - Classes](/docs/020-classes-4noobs.md)  
+ 
 
 // Em desenvolvimento
 
