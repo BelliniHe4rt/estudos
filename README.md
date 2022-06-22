@@ -41,12 +41,12 @@ O sumário do 4noobs é um complemento para o sumário de PHP, apontando alguns 
 [08 - Estruturas de controle - Loops](/docs/019-estruturas-controle-loops.md)  
 
 ### **Intermediário**
-[01 - Classes](/docs/020-classes-4noobs.md)  
- 
+[01 - Classes](/docs/020-classes-4noobs.md)   
 
 // Em desenvolvimento
 
 ## **Sumário - Intermediário**
-[01 - Orientação a Objetos](/docs/04-orientacao-objetos-php.md)  
+[01 - CLI](/docs/021-cli.md)  
+[02 - Orientação a Objetos](/docs/04-orientacao-objetos-php.md)  
 
 // Em desenvolvimento 

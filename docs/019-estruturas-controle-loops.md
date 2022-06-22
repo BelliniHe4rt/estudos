@@ -30,4 +30,12 @@ for($i = 1; $i <= $contador; $i++){
 echo PHP_EOL . "Script finalizado!";
 ```
 
-Explicando o bloco de código completo, começamos definindo uma variável com valor igual 10. 
+Explicando o bloco de código completo, começamos definindo uma variável com valor igual 10. Após isso, printamos na tela que estaríamos fazendo um script de contagem. Aí sim vamos entrar no nosso laço ```for```.  
+
+No nosso laço podemos perceber que, assim como as condicionais, abrimos parênteses e dentro dele temos a condição que vai fazer o nosso código funcionar, só que aqui ele ficará repetindo de acordo com o que definirmo dentro dos parênteses.  
+
+Como estamos fazendo um script de contagem, usamos índices para indicar a contagem. Por exemplo, no código usamos um ```$i``` para indicar isso. Mas, ainda assim fica confuso com pouca informação.  
+
+Vamos ler da seguinte forma por índices: PARA (for) o nosso contador ($i) começando em 1 e termina em 10 (que foi o número que declaramos na variável), ele vai continuar contando, verificando e vai parar quando o valor for maior que 10. Isto é, ele ainda vai chegar a incrementar o número, vai checar se ele está dentro da condição ```<= 10``` e como é uma condição falsa por não estar dentro do que foi determinado, ele automaticamente para a contagem.  
+
+### **Loop while**
