@@ -24,7 +24,7 @@ $contador = 10;
 echo "Script pra contar até $contador" .PHP_EOL;
 
 for($i = 1; $i <= $contador; $i++){
-    echo $i . ", ";
+    echo $i . ', ';
 }
 
 echo PHP_EOL . "Script finalizado!";
@@ -39,3 +39,54 @@ Como estamos fazendo um script de contagem, usamos índices para indicar a conta
 Vamos ler da seguinte forma por índices: PARA (for) o nosso contador ($i) começando em 1 e termina em 10 (que foi o número que declaramos na variável), ele vai continuar contando, verificando e vai parar quando o valor for maior que 10. Isto é, ele ainda vai chegar a incrementar o número, vai checar se ele está dentro da condição ```<= 10``` e como é uma condição falsa por não estar dentro do que foi determinado, ele automaticamente para a contagem.  
 
 ### **Loop while**
+Como vimos, as estrtuturas de controle utilizam condicionais também, isto é, uma operação booleana para verificar um teste lógico; e a estrutura de controle do loop while trabalha com uma condição que enquanto for verdadeira fará com que o nosso loop seja executado. Em outras palavras, o nosso loop while só possui uma condição verdadeira no teste lógico e continua sendo executado até que o resultado do teste seja falso.  
+
+Vejamos um bloco de código que executa a mesma função do código do loop for para entendermos melhor.  
+
+```php
+<?php
+
+$condicaoLoop = true;
+$contador;
+
+echo "Script pra contar até $contador" .PHP_EOL;
+
+while ($condicaoLoop){
+    echo $contador . ', ';
+    if ($i == 10){
+        $condicaoLoop = false;
+    }
+    $contador++;
+}
+
+echo PHP_EOL . "Script finalizado!";
+```
+
+Ok... No bloco de código acima fizemos o mesmo procedimento da contagem até o número 10, mas, aqui usando o loop while. O loop while utilizou mais linhas de código do que o loop for. Nesses casos em que vamos incrementar algo, o loop for é mais útil do que o loop for, não por questões de funcionamento, pois ambos exercem a mesma tarefa sem problemas.  
+
+### **Loop foreach**
+O loop foreach não nos é desconhecido. Quando estudamos sobre arrays nós vimos esse loop lá, então já sabemos que o loop foreach é utilizado juntamente com arrays.  
+Este loop é utilizado para iterar arrays e como exemplo podemos até mesmo ver algum bloco de código de quando estudamos arrays.  
+
+```php
+$task = [
+    'title' => fgets(STDIN),
+    'due' => fgets(STDIN),
+    'completed' => fgets(STDIN),
+];
+
+var_dump($task) . PHP_EOL;
+
+foreach ($task as $feature => $situation){
+    echo "$feature: $situation" . PHP_EOL;
+ } 
+```  
+
+O bloco de código acima também nos é conhecido, mas, para reforçar, vamos tentar endende-lo mais uma vez.  
+Nós temos um array que armazena as nossa tarefas, as quais possuem um título, uma data para entrega e um status para ver se ele está completo ou não. Quando passamos o nosso array associativo pelo foreach, colocamos dentro da condição do nosso loop que para cada item da nossa task contando como chave => valor, nós iríamos printar a chave e o valor de acordo com o que está dentro do nosso echo.  
+
+## **Controle de repetições**
+Muito além de acharmos que nossos loops trabalham apenas de acordo com a condição que damos no início dele, podemos controlar suas repetições com os comandos ```continue``` e o comando ```break```.
+
+* **Continue**  
+O comando *continue* 

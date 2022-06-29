@@ -47,6 +47,8 @@ O sumário do 4noobs é um complemento para o sumário de PHP, apontando alguns 
 
 ## **Sumário - Intermediário**
 [01 - CLI](/docs/021-cli.md)  
-[02 - Orientação a Objetos](/docs/04-orientacao-objetos-php.md)  
+[02 - Banco de Dados e MySQL](/docs/022-mysql.md)  
+[03 - Relacionamento de Tabelas](/docs/023-relacionamento-tabelas.md)  
+[04 - Orientação a Objetos](/docs/04-orientacao-objetos-php.md)  
 
 // Em desenvolvimento 
