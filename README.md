@@ -12,7 +12,9 @@ Também estarei sempre atualizando o repositório para ir colocando tudo que est
 [02 - HTML e CSS](/docs/02-html-css.md)  
 [03 - Git e GitHub](/docs/03-git.md)  
 
-## **Sumário - PHP**
+## **Sumário - PHP (Laracasts)**
+O sumário do PHP do curso The PHP Practioner do Laracasts é para anotações do básico de PHP que aprendi segundo o curso. Levando a mesma ideia do repositório de anotar o que aprendo em formato de artigo e com as minhas palavras.
+
 [01 - O que é PHP?](/docs/05-php.md)  
 [02 - PHP e HTML](/docs/06-php-html.md)  
 [03 - Arrays](/docs/07-arrays.md)  
@@ -32,18 +34,17 @@ O sumário do 4noobs é um complemento para o sumário de PHP, apontando alguns 
 
 ### **Básico** 
 [01 - Operadores aritméticos](/docs/012-operadores-aritmeticos.md)  
-[02 - Operadores bitwise](/docs/013-operadores-bitwise.md)  
-[03 - Operadores de atribuição](/docs/014-operadores-atribuição.md)  
-[04 - Operadores de comparação](/docs/015-operadores-comparação.md)  
-[05 - Operadores lógicos](/docs/016-operadores-logicos.md)  
-[06 - Operadores de execução](/docs/017-operadores-exucucao.md)  
-[07 - Estruturas de controle - Condicionais](/docs/018-estruturas-controle-condicionais.md)  
-[08 - Estruturas de controle - Loops](/docs/019-estruturas-controle-loops.md)  
+[02 - Operadores de atribuição](/docs/014-operadores-atribuição.md)  
+[03 - Operadores de comparação](/docs/015-operadores-comparação.md)  
+[04 - Operadores lógicos](/docs/016-operadores-logicos.md)  
+[05 - Operadores de execução](/docs/017-operadores-exucucao.md)  
+[06 - Estruturas de controle - Condicionais](/docs/018-estruturas-controle-condicionais.md)  
+[07 - Estruturas de controle - Loops](/docs/019-estruturas-controle-loops.md)  
 
 ### **Intermediário**
 [01 - Classes](/docs/020-classes-4noobs.md)   
 
-// Em desenvolvimento
+---
 
 ## **Sumário - Intermediário**
 [01 - CLI](/docs/021-cli.md)  

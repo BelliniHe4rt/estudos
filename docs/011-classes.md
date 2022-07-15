@@ -21,7 +21,8 @@ Em uma classe tem algo que chamamos de métodos, e um dos métodos que são impo
 ```php
 class Quarto
 {
-    public function __construct() {
+    public function __construct()
+    {
 
     }
 }
@@ -33,13 +34,15 @@ Antes de chegarmos lá é importante relembrar um ponto: toda função aceita al
 ```php
 class Quarto
 {
-    public function __construct($moveis) {
-        
-        $this->moveis = $moveis;
+    public function __construct($moveis, $moveis)
+    {
+       $moveis = $this->moveis;
     }
 }
 
 $quarto = new Quarto('Cama', 'Guarda-roupa');
 ```
 
-// Em estudos, desenvolvimento e falta tirar algumas dúvidas.
+Explicando o exemplo acima, nós temos o método construtor. Aqui podemos ver que os métodos são sempre funções e funções passam parâmtros. O nosso método construtor está passando os ```$moveis``` como parâmetro e recebendo a cama e o guarda-roupa, assim que a função é instanciada na classe Quarto.
+
+Para um primeiro momento, tudo isso é informação o suficiente e falar mais sobre seria sobrecarregar a ideia de continuidade do repositório e expandir o conhecimento antes da hora. Mais para frente vou estudar classes de formas diferentes e na prática em projetos também.
