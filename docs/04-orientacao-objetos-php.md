@@ -25,7 +25,7 @@ Bem, analisando o exemplo acima nós podemos ver que criamos uma classe para uma
 ## **Objetos**
 No exemplo acima (das classes) vimos que nós atribuímos alguns valores a ela, e esses valores são chamados de atributos ou objetos. Ou seja, nosso objeto sempre será informações atribuídas a classe. Por exemplo:
 
-``` php
+```php
 class Person
 {
     public string $name;
@@ -39,5 +39,3 @@ Outra coisa que podemos perceber nesse exemplo é que um dos nossos dados é pri
 
 ## **Herança**
 Quando queremos que uma outra classe do nosso código possua o mesmo comportamento de outra classe, nós usamos herança para isso. A herança é o que facilita essa adoção de comportamento, sem precisar que parte da classe seja escrita novamente dentro de outra classe, sendo que podemos simplesmente adotar aquela partezinha do código com o comando *extends*.  
-
-// Em estudos e desenvolvimento.

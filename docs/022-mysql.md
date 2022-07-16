@@ -37,7 +37,13 @@ INSERT INTO users (name, birthdate, gender) VALUES ('Bellini', '1998-01-01', 'Fe
 Na query acima inserimos na tabela de usuários o meu nome, minha data de nascimento e meu gênero. Por isso utilizamos o INTO após o INSERT, pois estamos indicando onde vamos inserir aqueles dados.  
 
 * ### **Comando UPDATE**
+O comando UPDATE serve para atualizar dados. Com ele utilizamos o comando SET, que serve para podermos inserir quais informações do banco de dados iremos atualizar.
 
+```sql
+UPDATE user_books SET devolution_at = CURRENT_TIMESTAMP() WHERE user_id = $userId AND book_id = $bookDevolution;
+```
+
+Na query acima (também do meu projeto) estamos atualizando a devolução de um livro. Isto é, ali estamos atualizando da tabela ```user_books``` a data de devolução (utilizando ```CURRENT_TIMESTAMP```), filtrando com WHERE para pegarmos o ID do usuário e do livro.
 
 * ### **Comando DELETE**
 O comando DELETE é um daqueles comandos básicos que fazem parte do CRUD, e ele serve para deletar algo no nosso banco de dados. Como exemplo irei utilizar uma query do projeto.
